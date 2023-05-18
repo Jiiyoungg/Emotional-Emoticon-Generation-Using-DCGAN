@@ -70,5 +70,5 @@ DCGAN을 사용하여 텍스트의 감정을 반영하는 이모티콘 생성
 
 이모티콘 예시   
 ---------
-![분노](https://github.com/Jiiyoungg/Emotional-Emoticon-Generation-Using-DCGAN/assets/105014404/14c98daf-5a88-4417-81a9-281ba6c3a6da)
+![분노](https://github.com/Jiiyoungg/Emotional-Emoticon-Generation-Using-DCGAN/assets/105014404/14c98daf-5a88-4417-81a9-281ba6c3a6da){: width="300" height="100"}
 ![슬픔](https://github.com/Jiiyoungg/Emotional-Emoticon-Generation-Using-DCGAN/assets/105014404/c74efd16-9df1-4c52-9f85-74910ec44f87)
